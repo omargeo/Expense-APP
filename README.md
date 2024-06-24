@@ -31,7 +31,7 @@ Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction
 
 ## Project Structure
     
-    Expenso # Target
+    Expense Hero # Target
     |
     ├── CoreData            # CoreData ManagedObject
     |
