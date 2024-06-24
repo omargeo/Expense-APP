@@ -1,6 +1,6 @@
 ![GitHub Cards Preview](https://github.com/sameersyd/Expenso/blob/main/art/EXPENSO_COVER.png?raw=true)
 
-# Expenso
+# Expense Hero
 A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture.
 
 <br />
