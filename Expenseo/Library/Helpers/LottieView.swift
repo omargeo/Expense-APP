@@ -1,8 +1,6 @@
 //
 //  LottieView.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 07/02/21.
+//  Expense Hero
 //
 
 import SwiftUI
