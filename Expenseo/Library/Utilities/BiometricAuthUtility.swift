@@ -1,8 +1,6 @@
 //
 //  BiometricAuthUtility.swift
-//  Expenso
-//
-//  Created by Waseem Akram on 06/03/21.
+//  Expense Hero
 //
 
 import Foundation
