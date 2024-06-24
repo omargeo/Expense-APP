@@ -1,8 +1,6 @@
 //
 //  AuthenticateView.swift
-//  Expenso
-//
-//  Created by Sameer Nawaz on 16/02/21.
+//  Expense Hero
 //
 
 import SwiftUI
