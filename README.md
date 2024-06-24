@@ -7,11 +7,6 @@ A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, 
 
 ## UI Design 🎨
 
-***Click to View Expenso app Design from below 👇***
-
-[![Expenso](https://img.shields.io/badge/Expenso-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/Z5KMfiwo9RYtYBUMRSIfHh/Expense-Tracker-App?node-id=140%3A1016)
-
-<br />
 
 ## Light Mode 🌞
 Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction 
