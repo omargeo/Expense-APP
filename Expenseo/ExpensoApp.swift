@@ -1,8 +1,7 @@
 //
 //  ExpensoApp.swift
-//  Expenso
+//  Expense Hero
 //
-//  Created by Sameer Nawaz on 31/01/21.
 //
 
 import SwiftUI
