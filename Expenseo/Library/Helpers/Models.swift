@@ -5,7 +5,7 @@
 
 import UIKit
 import SwiftUI 
-
+ 
 // Lazy Navigation to load (constructor) after clicked on Button
 struct NavigationLazyView<Content: View>: View {
     let build: () -> Content
