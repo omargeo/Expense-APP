@@ -7,7 +7,7 @@ import SwiftUI
 import Lottie 
 
 enum LottieAnimType: String {
-    case empty_face = "empty-face"
+    case empty_face = "empty-face" 
 }
 
 struct LottieView: UIViewRepresentable {
