@@ -4,7 +4,7 @@
 //
 
 import SwiftUI
-
+ 
 enum InterFontType: String {
     case black = "Inter-Black"
     case bold = "Inter-Bold"
