@@ -5,7 +5,7 @@
  
 import SwiftUI
 import Charts
-
+ 
 struct ChartView: UIViewRepresentable {
     
     var label: String, entries: [PieChartDataEntry]
