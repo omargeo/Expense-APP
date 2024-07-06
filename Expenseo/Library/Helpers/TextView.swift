@@ -3,7 +3,7 @@
 //  Expense Hero
 //
 
-import SwiftUI  
+import SwiftUI
 
 enum TextView_Type {
     case h1
