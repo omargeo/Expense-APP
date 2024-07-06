@@ -4,7 +4,7 @@
 //
 
 import SwiftUI 
-import Lottie
+import Lottie 
 
 enum LottieAnimType: String {
     case empty_face = "empty-face"
