@@ -14,7 +14,7 @@ enum InterFontType: String {
     case medium = "Inter-Medium"
     case regular = "Inter-Regular"
     case semiBold = "Inter-SemiBold"
-    case thin = "Inter-Thin"
+    case thin = "Inter-Thin" 
 }
 
 struct InterFont: ViewModifier {
