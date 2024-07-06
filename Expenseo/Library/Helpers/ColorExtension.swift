@@ -5,7 +5,7 @@
 
 import SwiftUI
 
-extension Color {
+extension Color { 
     
     static let main_color = Color("main_color")
     static let primary_color = Color("primary")
