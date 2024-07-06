@@ -8,7 +8,7 @@ import UIKit
 import MobileCoreServices
 import AVFoundation
 import Photos
-
+ 
 class AttachmentHandler: NSObject {
     
     static let shared = AttachmentHandler()
