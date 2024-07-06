@@ -1,7 +1,7 @@
 ![GitHub Cards Preview](https://github.com/omargeo/Expense-APP/blob/main/art/EXPENS-APP_COVER.png)
 
 # Expense Hero
-A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture.
+A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture. 
 
 <br />
 
