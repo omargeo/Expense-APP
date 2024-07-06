@@ -3,7 +3,7 @@
 //  Expense Hero
 //
 
-import SwiftUI 
+import SwiftUI  
 
 struct DropdownOption: Hashable {
     public static func == (lhs: DropdownOption, rhs: DropdownOption) -> Bool {
