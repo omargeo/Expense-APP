@@ -4,7 +4,7 @@
 A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture. 
  
 <br /> 
-  
+   
 ## UI Design 🎨   
      
    
