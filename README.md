@@ -7,7 +7,7 @@ A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, 
        
 ## UI Design 🎨       
      
-      
+  
 ## Light Mode 🌞 
 Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction 
 --- | --- | --- |--- |--- 
