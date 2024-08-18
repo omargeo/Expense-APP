@@ -8,7 +8,7 @@ A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, 
 ## UI Design 🎨      
  
 
-## Light Mode 🌞
+## Light Mode 🌞 
 Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction 
 --- | --- | --- |--- |--- 
 ![](https://github.com/sameersyd/Expenso/blob/main/art/dashboard.png) | ![](https://github.com/sameersyd/Expenso-iOS/blob/main/art/auth_faceid.png) | ![](https://github.com/sameersyd/Expenso-iOS/blob/main/art/income_stat.png) | ![](https://github.com/sameersyd/Expenso-iOS/blob/main/art/expense_stat.png) | ![](https://github.com/sameersyd/Expenso-iOS/blob/main/art/add_transaction_attach.png) 
